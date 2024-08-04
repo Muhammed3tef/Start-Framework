@@ -19,7 +19,7 @@ export default function About() {
           {/* ----- after the head------- */}
           <div className="star flex justify-between items-center">
             <div className="bg-white w-20 h-1"></div>
-            <i class="fa-solid fa-star block text-white "></i>
+            <i className="fa-solid fa-star block text-white "></i>
             <div className="bg-white w-20 h-1"></div>
           </div>
           {/* -------Desc of the tittle----- */}

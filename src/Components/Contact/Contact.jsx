@@ -15,7 +15,7 @@ export default function Contact() {
       {/* ----- after the head------- */}
       <div className="star gap-6 flex justify-center items-center pt-5">
         <div className="bg-[#2C3E50] w-20 h-1"></div>
-        <i class="fa-solid fa-star block  text-[#2C3E50]"></i>
+        <i className="fa-solid fa-star block  text-[#2C3E50]"></i>
         <div className="bg-[#2C3E50] w-20 h-1"></div>
       </div>
       {/* ----------inputs---------- */}

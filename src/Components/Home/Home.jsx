@@ -18,14 +18,14 @@ export default function Home() {
           </div>
           {/* ---------head home-------- */}
           <div className="titleAndDesc py-5">
-            <h1 className="uppercase text-4xl text-white font-bold flex gap-4 align-middle justify-center">
+            <h1 className="uppercase text-3xl md:text-4xl text-white font-bold flex gap-4 align-middle justify-center">
               start <span>framework</span>
             </h1>
           </div>
           {/* ----- after the head------- */}
           <div className="star flex justify-between items-center">
             <div className="bg-white w-20 h-1"></div>
-            <i class="fa-solid fa-star block text-white "></i>
+            <i className="fa-solid fa-star block text-white "></i>
             <div className="bg-white w-20 h-1"></div>
           </div>
           {/* -------Desc of the tittle----- */}

@@ -41,7 +41,7 @@ export default function Navber() {
     </NavLink>
       <Navbar.Toggle className='inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 '/>
       <Navbar.Collapse>
-        <NavLink to="about" active className="block py-2 px-3 md:p-0 text-white uppercase navHov font-bold">
+        <NavLink to="about" active="true" className="block py-2 px-3 md:p-0 text-white uppercase navHov font-bold">
           About
         </NavLink>
         <NavLink as={Link} to="portfolio" className="block py-2 px-3 md:p-0 text-white uppercase navHov font-bold">
